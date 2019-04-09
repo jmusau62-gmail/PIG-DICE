@@ -5,11 +5,11 @@ This is a program of a game named PIG-DICE , it has two players and the game is 
 
 Technologies Used:
 
-javascript
-html
+JavaScript
+HTML
 CSS
-bootstrap
-jquery
+Bootstrap
+jQuery
 
 Known Bugs:
 
@@ -17,7 +17,7 @@ Known Bugs:
 
 Support and Contact Details:
 
-Contact Joshua Musau on github page or gmail
+Contact Joshua Musau on github page or g mail
 
  License:
 
