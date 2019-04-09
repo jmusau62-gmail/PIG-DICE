@@ -1,7 +1,7 @@
-body
-{
+body{
   margin: 0;
   padding: 0;
+  background-color: wheat;
 }
 .circle
 {
@@ -26,22 +26,28 @@ body
   box-shadow: insert 0 0 50px rdgba(0,0,0,.5);
 
 }
-.wave: before,
-.wave:  after
-{
+.wave: before,.wave:  after{
   content: '';
   position: absolute;
   width: 200%;
   height: 200%;
   top: 0;
   left: 50%;
-  trsform: translate(-50%,-75%);
+  transform: translate(-50%,-75%);
   background: #000;
 }
-.wave: before
-{
+.wave: before{
   border-radius: 45%;
   background: rgba (255,255,255,1);
   animation: animate 5% linear infinite;
 }
-.wave: after
+button{
+  border-radius: 34px;
+  background-color: lightblue;
+}
+html{
+  background-color: wheat;
+}
+.jumbotron{
+  background-color: indianred;
+}
