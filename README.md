@@ -11,13 +11,12 @@ ADDRESS BOOK
 This Project is called Pig Dice and is played between two people. The goal is to get to 100 pints first. A detailed description is given below
 
 Specs
-|BEHAVIOR             |    INPUT                     |OUTPUT|
-\|:------------:-\|:-------------------------:\|:---------------------------:\|
+|BEHAVIOR             |    INPUT                     | OUTPUT |
+|:------------:|:-------------------------:|:---------------------------:|
 |   The gamer loads the page            |      the game appears                 |       the player starts the game                       |
 |   Game starts           |       player one rolls dice                    |     score appears                         |
 |    hold works automatically           |    player two rolls dice                       |     score appears                         |
-\|               \|                           \|                              \|
-|    rolls the dice           |  roll===1    game switches to player two                     |      denilson                        |
+|    rolls the dice           |  roll===1   | game switches to player two                     |               
 |     Total score ===100          |     player one// player two===100                      |    winner                          |
 
 ## Setup/Installation Requirements
