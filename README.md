@@ -1,6 +1,5 @@
 # PIG DICE
 
-ADDRESS BOOK
 
 ## AUTHORS
 
