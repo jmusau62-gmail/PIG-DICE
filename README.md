@@ -1,8 +1,10 @@
 ###PIG DICE
 ADDRESS BOOK
-###AUTHORS The project was created by Joshau Musau
+###AUTHORS
+ The project was created by Joshau Musau
 
-##DESCRIPTION This Project is called Pig Dice and is played between two people. The goal is to get to 100 pints first. A detailed description is given below
+##DESCRIPTION
+This Project is called Pig Dice and is played between two people. The goal is to get to 100 pints first. A detailed description is given below
 
 Specs
 |BEHAVIOR             |    INPUT                     |OUTPUT|
