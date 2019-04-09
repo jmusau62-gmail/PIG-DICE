@@ -10,7 +10,7 @@ ADDRESS BOOK
 
 This Project is called Pig Dice and is played between two people. The goal is to get to 100 pints first. A detailed description is given below
 
-Specs
+## Specs
 |BEHAVIOR             |    INPUT                     | OUTPUT |
 |:------------:|:-------------------------:|:---------------------------:|
 |   The gamer loads the page            |      the game appears                 |       the player starts the game                       |
