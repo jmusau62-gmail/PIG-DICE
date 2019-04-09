@@ -11,3 +11,18 @@ $ (document).ready(function() {
       }
     });
   });
+
+/*second player*/
+$(document).ready(function() {
+$("#hold").click(function player2() {
+  var musau= Math.floor(Math.random()*6)+1;
+  parseInt($("#total-2").text(musau));
+  if (musau !=1){
+    total+= musau;
+    parseInt($("#dice2").text(total));
+  }else {
+    total= 0;
+    parseInt($)"#dice2").text(total));
+  }
+});
+});
